@@ -15,7 +15,7 @@ Developmental Guide:
 
 Data layer (Postgres setup):
 
-- Install http://postgresapp.com/ for OSX. It automatically runs on port 5432 , can also configure throuh brew or postgres installation package from the official website.
+- Install http://postgresapp.com/ for OSX. It automatically runs on port 5432 , can also configure through brew or postgres installation package from the official website.
     - Database name: shopping 
     - User: root (You can modify the settings.py DATABASES/USERNAME to whatever you use) creating a root user is prefered
     - Password: None by default, can modify according to perference for development
