@@ -1,0 +1,6 @@
+*.log
+*.pot
+*.pyc
+*.idea
+local_settings.py
+ENV
